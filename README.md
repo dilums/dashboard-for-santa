@@ -1,6 +1,19 @@
 # Dashboard for Santa
 A conversation with Chat GPT.
-> I have removed explanations from the chat GPT output.
+> I have removed explanations from the chat GPT output.   
+
+- ### Text Generation
+    - [Basic Layout](#basic-layout)
+    - [Staff Contact Info](#staff-contact-info)
+    - [Notifications](#notifications-list)
+    - [Naughty & Nice](#naughty--nice-list)
+    - [Todos](#todos)
+    - [Quote](#quote)  
+- ### SVG Generation
+    - [Santa's Travel Map](https://github.com/dilums/dashboard-for-santa/blob/main/SVG.md#santas-travel-map)
+    - [Colors](https://github.com/dilums/dashboard-for-santa/blob/main/SVG.md#colors)
+    - [Ornaments](https://github.com/dilums/dashboard-for-santa/blob/main/SVG.md#ornaments)
+    - [Logic](https://github.com/dilums/dashboard-for-santa/blob/main/SVG.md#logic)
 
 ## Basic Layout  
 ### I want to create a dashboard for Santa to help him manage his tasks. What are the items we need to put in sidebar ?
