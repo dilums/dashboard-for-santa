@@ -1,5 +1,17 @@
 # SVG Generation  
 
+- ### Text Generation
+    - [Basic Layout](https://github.com/dilums/dashboard-for-santa#basic-layout)
+    - [Staff Contact Info](https://github.com/dilums/dashboard-for-santa#staff-contact-info)
+    - [Notifications](https://github.com/dilums/dashboard-for-santa#notifications-list)
+    - [Naughty & Nice](https://github.com/dilums/dashboard-for-santa#naughty--nice-list)
+    - [Todos](https://github.com/dilums/dashboard-for-santa#todos)
+    - [Quote](https://github.com/dilums/dashboard-for-santa#quote)  
+- ### SVG Generation
+    - [Santa's Travel Map](#santas-travel-map)
+    - [Colors](#colors)
+    - [Ornaments](#ornaments)
+    - [Logic](#logic)
 
 ## Santa's Travel Map
 ### can you create Santa's travel map in SVG
